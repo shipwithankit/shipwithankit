@@ -18,8 +18,8 @@ browser extensions, automations and AI workflows that turn hours of manual resea
 
 ### 🚀 Featured: Shorts Kit
 
-<a href="https://github.com/Ankitmmm/youtube-shorts-kit">
-  <img src="https://raw.githubusercontent.com/Ankitmmm/youtube-shorts-kit/main/docs/social-preview.png" alt="Shorts Kit: one-click research for YouTube Shorts" />
+<a href="https://github.com/shipwithankit/youtube-shorts-kit">
+  <img src="https://raw.githubusercontent.com/shipwithankit/youtube-shorts-kit/main/docs/social-preview.png" alt="Shorts Kit: one-click research for YouTube Shorts" />
 </a>
 
 A free, open-source Chrome extension for researching YouTube Shorts in one click:
@@ -30,7 +30,7 @@ A free, open-source Chrome extension for researching YouTube Shorts in one click
 - ✨ **AI rewrite** with Google Gemini into your own script, hooks or titles
 - 📚 A searchable **library**, **tag insights** and **bulk grab** for whole channels
 
-**[⬇ Download the latest release](https://github.com/Ankitmmm/youtube-shorts-kit/releases/latest)** · [Read more](https://github.com/Ankitmmm/youtube-shorts-kit#readme)
+**[⬇ Download the latest release](https://github.com/shipwithankit/youtube-shorts-kit/releases/latest)** · [Read more](https://github.com/shipwithankit/youtube-shorts-kit#readme)
 
 ---
 
@@ -38,7 +38,7 @@ A free, open-source Chrome extension for researching YouTube Shorts in one click
 
 | Project | What it does | Status |
 |---|---|---|
-| ⚡ [**Shorts Kit**](https://github.com/Ankitmmm/youtube-shorts-kit) | Chrome extension: transcript, tags, stats & AI rewrite for YouTube Shorts | ✅ v2.0 released |
+| ⚡ [**Shorts Kit**](https://github.com/shipwithankit/youtube-shorts-kit) | Chrome extension: transcript, tags, stats & AI rewrite for YouTube Shorts | ✅ v2.0 released |
 | 🔜 More tools for creators & marketers | Coming soon. Watch this space | 🚧 |
 
 ---
@@ -51,5 +51,5 @@ A free, open-source Chrome extension for researching YouTube Shorts in one click
 
 ### 🤝 Say hi
 
-Found a bug or have an idea for one of my tools? [Open an issue](https://github.com/Ankitmmm/youtube-shorts-kit/issues/new/choose). I read every one.
+Found a bug or have an idea for one of my tools? [Open an issue](https://github.com/shipwithankit/youtube-shorts-kit/issues/new/choose). I read every one.
 ⭐ If a project saves you time, a star helps others find it.
